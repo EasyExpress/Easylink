@@ -1,0 +1,11 @@
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\bin\Release\EasylinkApp.Business.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\bin\Release\EasylinkApp.Business.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\bin\Release\Easylink.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\bin\Release\Npgsql.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\bin\Release\Easylink.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\obj\Release\EasylinkApp.Business.csprojResolveAssemblyReference.cache
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\obj\Release\EasylinkApp.Business.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\obj\Release\EasylinkApp.Business.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\bin\Release\MySql.Data.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkApp\EasylinkApp.Business\bin\Release\Npgsql.xml

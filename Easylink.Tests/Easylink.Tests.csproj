@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{57DC2133-A34E-4059-9648-C60304F5B5C3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Easylink.Tests</RootNamespace>
+    <AssemblyName>Easylink.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <CodeAnalysisDependentAssemblyPaths Condition=" '$(VS100COMNTOOLS)' != '' " Include="$(VS100COMNTOOLS)..\IDE\PrivateAssemblies">
+      <Visible>False</Visible>
+    </CodeAnalysisDependentAssemblyPaths>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\AuditRecord.cs" />
+    <Compile Include="Business\EmployeeBL.cs" />
+    <Compile Include="Business\LookupBL.cs" />
+    <Compile Include="CleanData.cs" />
+    <Compile Include="AspNetRoleTest.cs" />
+    <Compile Include="AspNetRoleSqlServerTest.cs" />
+    <Compile Include="FakeData\FakeAspNetRole.cs" />
+    <Compile Include="InvoiceSqlServerTest.cs" />
+    <Compile Include="FakeData\FakeInvoice.cs" />
+    <Compile Include="InvoiceTest.cs" />
+    <Compile Include="Mapping\AspNetRoleMapping.cs" />
+    <Compile Include="Mapping\InvoiceMapping.cs" />
+    <Compile Include="Model\AspNetRole.cs" />
+    <Compile Include="Model\Invoice.cs" />
+    <Compile Include="SqlTracePostgreSqlTest.cs" />
+    <Compile Include="SqlTraceMySqlTest.cs" />
+    <Compile Include="SqlTraceOracleTest.cs" />
+    <Compile Include="SqlTraceSqlServerTest.cs" />
+    <Compile Include="SqlTraceTest.cs" />
+    <Compile Include="LookupBLPostgreSqlTest.cs" />
+    <Compile Include="LookupBLOracleTest.cs" />
+    <Compile Include="LookupBLMySqlTest.cs" />
+    <Compile Include="LookupBLSqlServerTest.cs" />
+    <Compile Include="LookupBLTest.cs" />
+    <Compile Include="FakeData\FakeTax.cs" />
+    <Compile Include="InheritedMappingTest.cs" />
+    <Compile Include="EmployeeBLMySqlTest.cs" />
+    <Compile Include="EmployeeBLOracleTest.cs" />
+    <Compile Include="EmployeeBLPostgreSqlTest.cs" />
+    <Compile Include="Mapping\AdditionalnfoMapping.cs" />
+    <Compile Include="Mapping\AuditRecordMapping.cs" />
+    <Compile Include="Mapping\PropertyTaxMapping.cs" />
+    <Compile Include="Mapping\BusinessTaxMapping.cs" />
+    <Compile Include="Mapping\TaxMapping.cs" />
+    <Compile Include="Model\AdditionalInfo.cs" />
+    <Compile Include="Model\BusinessTax.cs" />
+    <Compile Include="Model\PropertyTax.cs" />
+    <Compile Include="Model\Tax.cs" />
+    <Compile Include="SearchPostgreSqlTest.cs" />
+    <Compile Include="SearchMySqlTest.cs" />
+    <Compile Include="SearchOracleTest.cs" />
+    <Compile Include="SearchSqlServerTest.cs" />
+    <Compile Include="SearchTest.cs" />
+    <Compile Include="EmployeeBLSqlServerTest.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="EmployeeBLTest.cs" />
+    <Compile Include="FakeData\FakeEmployee.cs" />
+    <Compile Include="FakeData\SharedCode.cs" />
+    <Compile Include="Mapping\AddressMapping.cs" />
+    <Compile Include="Mapping\FinancialInfoMapping.cs" />
+    <Compile Include="Mapping\ProgramMapping.cs" />
+    <Compile Include="Mapping\LookupMapping.cs" />
+    <Compile Include="Mapping\EmployeeProgramMapping.cs" />
+    <Compile Include="Mapping\EmployeeMapping.cs" />
+    <Compile Include="Model\Address.cs" />
+    <Compile Include="Model\FinancialInfo.cs" />
+    <Compile Include="Model\Program.cs" />
+    <Compile Include="Model\Employee.cs" />
+    <Compile Include="Model\EmployeeProgram.cs" />
+    <Compile Include="Model\Enums.cs" />
+    <Compile Include="Model\Lookup.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ValidationTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Easylink\Easylink.csproj">
+      <Project>{27a76582-d658-49b4-9d29-388bfc11c3e4}</Project>
+      <Name>Easylink</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

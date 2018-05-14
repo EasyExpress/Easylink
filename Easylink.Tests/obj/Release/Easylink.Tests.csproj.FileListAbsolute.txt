@@ -1,0 +1,13 @@
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\Easylink.Tests.dll
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\Easylink.Tests.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\Easylink.dll
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\Npgsql.dll
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\Easylink.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\obj\Release\Easylink.Tests.csprojResolveAssemblyReference.cache
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\obj\Release\Easylink.Tests.dll
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\obj\Release\Easylink.Tests.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\MySql.Data.dll
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\meng\Desktop\WorkSpace\Source\Easylink.Tests\bin\Release\Npgsql.xml

@@ -1,0 +1,12 @@
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\bin\Release\EasylinkDemo.exe
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\bin\Release\EasylinkDemo.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\bin\Release\Easylink.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\bin\Release\Npgsql.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\bin\Release\Easylink.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\obj\x86\Release\EasylinkDemo.csprojResolveAssemblyReference.cache
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\obj\x86\Release\EasylinkDemo.exe
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\obj\x86\Release\EasylinkDemo.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\bin\Release\EasylinkDemo.exe.config
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\bin\Release\MySql.Data.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkDemo\EasylinkDemo\bin\Release\Npgsql.xml

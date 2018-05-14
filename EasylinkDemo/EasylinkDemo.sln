@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasylinkDemo", "EasylinkDemo\EasylinkDemo.csproj", "{E66B809E-B21C-4577-B95F-BAE0B23B62CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E66B809E-B21C-4577-B95F-BAE0B23B62CF}.Debug|x86.ActiveCfg = Debug|x86
+		{E66B809E-B21C-4577-B95F-BAE0B23B62CF}.Debug|x86.Build.0 = Debug|x86
+		{E66B809E-B21C-4577-B95F-BAE0B23B62CF}.Release|x86.ActiveCfg = Release|x86
+		{E66B809E-B21C-4577-B95F-BAE0B23B62CF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

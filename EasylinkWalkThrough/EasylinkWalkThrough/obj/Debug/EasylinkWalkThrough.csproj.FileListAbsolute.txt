@@ -1,0 +1,13 @@
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\EasylinkWalkThrough.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\EasylinkWalkThrough.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\Easylink.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\MySql.Data.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\Npgsql.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\Easylink.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\bin\Debug\Npgsql.xml
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\obj\Debug\EasylinkWalkThrough.dll
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\obj\Debug\EasylinkWalkThrough.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\EasylinkWalkThrough\EasylinkWalkThrough\obj\Debug\EasylinkWalkThrough.csprojResolveAssemblyReference.cache

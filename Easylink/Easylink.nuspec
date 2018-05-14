@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Easylink</id>
+    <version>2.0</version>
+    <authors>Easy Express Solutions Inc.</authors>
+    <owners>Easy Express Solutions Inc.</owners>
+	<licenseUrl>http://www.easyexpresssoft.com/files/license.pdf</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>ORM tool to simplify data access development.</description>
+    <dependencies>
+        <dependency id="Oracle.ManagedDataAccess"  version="12.1.0"/>
+        <dependency id="MySql.Data"  version="6.9.9"/>
+	    <dependency id="Npgsql"  version="3.1.7"/>         	
+    </dependencies>
+  </metadata>
+
+  
+   <files>
+   
+     <file src="..\EasylinkApp\*.*"   exclude="..\EasylinkApp\*.suo;..\EasylinkApp\*.user"     target="Samples\EasylinkApp" />
+     <file src="..\EasylinkApp\EasylinkApp.Business\*.*"    exclude="..\EasylinkApp\EasylinkApp.Business\packages.config"     target="Samples\EasylinkApp\EasylinkApp.Business" />
+     <file src="..\EasylinkApp\EasylinkApp.Business\Mapping\*.*"     target="Samples\EasylinkApp\EasylinkApp.Business\Mapping" />
+     <file src="..\EasylinkApp\EasylinkApp.Business\Models\*.*"     target="Samples\EasylinkApp\EasylinkApp.Business\Models" />
+     <file src="..\EasylinkApp\EasylinkApp.Business\Properties\*.*"     target="Samples\EasylinkApp\EasylinkApp.Business\Properties" />
+
+     <file src="..\EasylinkApp\EasylinkApp.Tests\*.*"  exclude="..\EasylinkApp\EasylinkApp.Tests\packages.config"   target="Samples\EasylinkApp\EasylinkApp.Tests" />
+     <file src="..\EasylinkApp\EasylinkApp.Tests\BLTests\*.*"     target="Samples\EasylinkApp\EasylinkApp.Tests\BLTests" />
+     <file src="..\EasylinkApp\EasylinkApp.Tests\FakeData\*.*"     target="Samples\EasylinkApp\EasylinkApp.Tests\FakeData" />
+     <file src="..\EasylinkApp\EasylinkApp.Tests\Properties\*.*"     target="Samples\EasylinkApp\EasylinkApp.Tests\Properties" />
+     <file src="..\EasylinkApp\EasylinkApp.Tests\UITests\*.*"     target="Samples\EasylinkApp\EasylinkApp.Tests\UITests" />
+
+     <file src="..\EasylinkApp\EasylinkApp.WPF\*.*"  exclude="..\EasylinkApp\EasylinkApp.WPF\packages.config"   target="Samples\EasylinkApp\EasylinkApp.WPF" />
+     <file src="..\EasylinkApp\EasylinkApp.WPF\Helpers\*.*"     target="Samples\EasylinkApp\EasylinkApp.WPF\Helpers" />
+     <file src="..\EasylinkApp\EasylinkApp.WPF\images\*.*"     target="Samples\EasylinkApp\EasylinkApp.WPF\images" />
+     <file src="..\EasylinkApp\EasylinkApp.WPF\Properties\*.*"     target="Samples\EasylinkApp\EasylinkApp.WPF\Properties" />
+
+     <file src="..\EasylinkDemo\*.*"     target="Samples\EasylinkDemo" />
+     <file src="..\EasylinkDemo\EasylinkDemo\*.*"     target="Samples\EasylinkDemo\EasylinkDemo" />
+     <file src="..\EasylinkDemo\EasylinkDemo\Mappings\*.*"     target="Samples\EasylinkDemo\EasylinkDemo\Mappings" />
+     <file src="..\EasylinkDemo\EasylinkDemo\Models\*.*"     target="Samples\EasylinkDemo\EasylinkDemo\Models" />
+     <file src="..\EasylinkDemo\EasylinkDemo\Properties\*.*"     target="Samples\EasylinkDemo\EasylinkDemo\Properties" />
+
+     <file src="..\EasylinkWalkThrough\*.*"  exclude="..\EasylinkWalkThrough\*.suo;..\EasylinkWalkThrough\*.user"    target="Samples\EasylinkWalkThrough" />
+     <file src="..\EasylinkWalkThrough\EasylinkWalkThrough\*.*"  exclude="..\EasylinkWalkThrough\EasylinkWalkThrough\packages.config"       target="Samples\EasylinkWalkThrough\EasylinkWalkThrough" />
+     <file src="..\EasylinkWalkThrough\EasylinkWalkThrough\BL\*.*"     target="Samples\EasylinkWalkThrough\EasylinkWalkThrough\BL" />
+     <file src="..\EasylinkWalkThrough\EasylinkWalkThrough\Mapping\*.*"     target="Samples\EasylinkWalkThrough\EasylinkWalkThrough\Mapping" />
+     <file src="..\EasylinkWalkThrough\EasylinkWalkThrough\Models\*.*"     target="Samples\EasylinkWalkThrough\EasylinkWalkThrough\Models" />
+     <file src="..\EasylinkWalkThrough\EasylinkWalkThrough\Properties\*.*"     target="Samples\EasylinkWalkThrough\EasylinkWalkThrough\Properties" />
+     <file src="..\EasylinkWalkThrough\EasylinkWalkThrough\Tests\*.*"     target="Samples\EasylinkWalkThrough\EasylinkWalkThrough\Tests" />
+
+   </files>
+</package>
+

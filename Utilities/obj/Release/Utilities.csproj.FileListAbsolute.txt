@@ -1,0 +1,5 @@
+C:\Users\meng\Desktop\WorkSpace\Source\Utilities\bin\Release\Utilities.dll
+C:\Users\meng\Desktop\WorkSpace\Source\Utilities\bin\Release\Utilities.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\Utilities\obj\Release\Utilities.dll
+C:\Users\meng\Desktop\WorkSpace\Source\Utilities\obj\Release\Utilities.pdb
+C:\Users\meng\Desktop\WorkSpace\Source\Utilities\obj\Release\Utilities.csprojResolveAssemblyReference.cache
